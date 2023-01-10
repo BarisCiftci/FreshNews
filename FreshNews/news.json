@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 35,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Alexandra Semenova",
+"title": "Stock market news live updates: Stocks edge higher as investors assess Powell talk, Fedspeak - Yahoo Finance",
+"description": "U.S. stocks crept forward Tuesday as Wall Street processed hawkish rate talk from Federal Reserve officials and mulled remarks from Chair Jerome Powell at an...",
+"url": "https://finance.yahoo.com/news/stock-market-news-live-updates-january-10-2023-130537861.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/fveblZx6kS1lLiVci3Q2ag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/6c4843b0-90e1-11ed-a671-b554c39e1bc4",
+"publishedAt": "2023-01-10T18:16:42Z",
+"content": "U.S. stocks crept forward Tuesday as Wall Street processed hawkish rate talk from Federal Reserve officials and mulled remarks from Chair Jerome Powell at an event hosted by Sweden's central bank.\r\nT… [+4856 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Melissa Repko",
+"title": "Bed Bath & Beyond lays off more employees as it fights to survive - CNBC",
+"description": "Bed Bath & Beyond is cutting jobs and is at risk of bankruptcy.",
+"url": "https://www.cnbc.com/2023/01/10/bed-bath-beyond-lays-off-more-employees-as-it-fights-to-survive.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107175974-1673286185432-gettyimages-1246112080-BBB_BANKRUPTCY.jpeg?v=1673374393&w=1920&h=1080",
+"publishedAt": "2023-01-10T18:13:13Z",
+"content": "Bed Bath &amp; Beyond has begun its latest round of layoffs, as it fights to stay in business, according to a memo sent to employees Tuesday that was obtained by CNBC.\r\nThe home goods retailer told e… [+2014 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "https://www.facebook.com/bbcnews",
+"title": "Ukraine war: Russia set to capture Soledar and its vast tunnel network - BBC",
+"description": "The fall of the small town of Soledar would allow Russian troops to encircle the city of Bakhmut.",
+"url": "https://www.bbc.com/news/world-europe-64219979",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0861/production/_128254120_5f99bd19b147be04362d74e4a737b1aab3f0b99c.jpg",
+"publishedAt": "2023-01-10T18:06:32Z",
+"content": "Russia looks set to capture the salt-mining town of Soledar in eastern Ukraine, with Kyiv calling the situation there \"extremely difficult\".\r\nThe fall of the small town would allow Russian troops to … [+3460 chars]"
+},
+{
+"source": {
+"id": "cbs-news",
+"name": "CBS News"
+},
+"author": "CBSBoston.com Staff",
+"title": "I-Team: Hatchet, hacksaw, blood found in Peabody trash facility during Ana Walshe search - CBS Boston",
+"description": "Investigators searching for Ana Walshe found trash bags with blood, a hatchet, a hacksaw, a rug and used cleaning supplies at a Peabody trash facility, sources told WBZ-TV's I-Team.",
+"url": "https://www.cbsnews.com/boston/news/ana-walshe-brian-cohasset-massachusetts-missing-mother-hatchet-hacksaw-blood-peabody-trash-facility-wbz-tv-i-team/",
+"urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/10/d6eb73e2-450e-4ea0-9fd1-3be8240bb2a8/thumbnail/1200x630/9fd2c3d4107bea4950e3472b092595ed/search.jpg",
+"publishedAt": "2023-01-10T17:20:00Z",
+"content": "COHASSET - Investigators searching for evidence in the disappearance of Cohasset mother Ana Walshe found trash bags with blood, a hatchet, a hacksaw, a rug and used cleaning supplies at a transfer st… [+2886 chars]"
+},
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Amy B Wang",
+"title": "Rep. Katie Porter announces run for U.S. Senate in California - The Washington Post",
+"description": "Porter announced her campaign Tuesday, despite Sen. Dianne Feinstein (D-Calif.) saying she intends to run for reelection.",
+"url": "https://www.washingtonpost.com/politics/2023/01/10/katie-porter-senate-feinstein/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TE3UCGHHHQI6ZJBCCG53SHNTBM.jpg&w=1440",
+"publishedAt": "2023-01-10T16:25:21Z",
+"content": "Comment on this story\r\nRep. Katie Porter (D-Calif.) announced Tuesday she is running for U.S. Senate.\r\nIn an email to her supporters, as well as a video posted to her social media accounts, Porter to… [+2072 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Ashley Strickland",
+"title": "A green comet will appear in the night sky for the first time in 50,000 years - CNN",
+"description": "A recently discovered comet will soon make its appearance in January's night sky for the first time in 50,000 years. The comet will make its closest approach to the sun on January 12.",
+"url": "https://www.cnn.com/2023/01/09/world/green-comet-c-2022-e3-scn/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230109154121-comet-c-2022-e3-restricted.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-01-10T16:06:00Z",
+"content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA recently discovered comet will soon make an appearan… [+1921 chars]"
+},
+{
+"source": {
+"id": "ars-technica",
+"name": "Ars Technica"
+},
+"author": "Andrew Cunningham",
+"title": "Windows 7 and Windows 8.1 reach the end of the line, and it’s time to upgrade - Ars Technica",
+"description": "Major browsers like Chrome and Edge are also ending support for these platforms.",
+"url": "https://arstechnica.com/gadgets/2023/01/closing-time-windows-7-and-windows-8-1-have-received-their-last-updates/",
+"urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/surface-pro-760x380.jpg",
+"publishedAt": "2023-01-10T16:01:31Z",
+"content": "Enlarge/ The first-generation Surface Pro running Windows 8.\r\n94 with 0 posters participating\r\nIt's the end of the line for Windows 7 and Windows 8.1. These older versions of Windows (plus Windows RT… [+2558 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.com"
+},
+"author": "Andrew Liszewski",
+"title": "Microsoft's New AI Tool Can Mimic Voices With 3 Seconds of Audio - Gizmodo",
+"description": "VALL-E can preserve the original speaker's emotional tone and even simulate their acoustic environment.",
+"url": "https://gizmodo.com/microsoft-ai-voice-mimic-deepfake-natural-copy-audio-1849969596",
+"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/899e7541cda85d6ca3dd585344265ae4.jpg",
+"publishedAt": "2023-01-10T15:55:00Z",
+"content": "Despite how far advancements in AI video generation have come, it still requires quite a bit of source material, like headshots from various angles or video footage, for someone to create a convincin… [+3003 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Gordon Kelly",
+"title": "New Apple Exclusive Reveals iPhone 15 Release Surprise - Forbes",
+"description": "iPhone 15 models will have an upgrade few expected...",
+"url": "https://www.forbes.com/sites/gordonkelly/2023/01/10/apple-iphone-15-pro-max-leak-design-specs-camera-upgrades/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/635fdbc749e46108de047062/0x0.jpg?format=jpg&crop=1842,1035,x48,y44,safe&width=1200",
+"publishedAt": "2023-01-10T14:22:00Z",
+"content": "01/10 Update below. This post was originally published on January 07\r\niPhone 15 Pro features have been leaked by Haitong International Securities analyst Jeff Pu, but the real surprise is Apples mass… [+4416 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Athletic"
+},
+"author": "Ken Rosenthal, Dan Hayes",
+"title": "Carlos Correa, Twins accelerate talks as deal with Mets remains in limbo - The Athletic",
+"description": "The possibility of a stunning reunion between Carlos Correa and the Twins is increasing, team sources said Monday night.",
+"url": "https://theathletic.com/4074925/2023/01/09/twins-carlos-correa-contract-talks/",
+"urlToImage": "https://cdn.theathletic.com/app/uploads/2023/01/09215005/GettyImages-1417476872-1024x683.jpg",
+"publishedAt": "2023-01-10T14:15:49Z",
+"content": "The possibility of a stunning reunion between Carlos Correa and the Twins is increasing, team sources said Monday night.\r\nWith the status of the mega-deal he agreed to with the New York Mets last mon… [+4275 chars]"
+},
+{
+"source": {
+"id": "fox-news",
+"name": "Fox News"
+},
+"author": "Houston Keene",
+"title": "House Republicans to vote on bill abolishing IRS, eliminating income tax - Fox News",
+"description": "Rep. Buddy Carter, R-Ga., is reintroducing a bill with several colleagues that aims to repeal the national income tax, implement a national consumption tax, and abolish the IRS.",
+"url": "https://www.foxnews.com/politics/house-republicans-vote-bill-abolishing-irs-eliminating-income-tax",
+"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/IRS-Building-iStock-1.jpg",
+"publishedAt": "2023-01-10T14:12:00Z",
+"content": "FIRST ON FOX: Republicans in the House of \r\nRepresentatives\r\n will vote on a bill that would abolish the Internal Revenue Service (IRS), eliminate the national income tax, and replace it with a natio… [+4033 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.com"
+},
+"author": "Lauren Leffer",
+"title": "The Feds Are Investigating an Elon Musk Tweet About Full Self-Driving Update - Gizmodo",
+"description": "In a reply to a fan, the billionaire seemed to suggest that Tesla drivers don't need to be reminded to keep their hands on the steering wheel.",
+"url": "https://gizmodo.com/feds-investigate-elon-musk-tweet-tesla-self-driving-1849966761",
+"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/29e3e851242ac496db5b127a7ca478c7.jpg",
+"publishedAt": "2023-01-10T14:10:00Z",
+"content": "One of Elon Musks numerous tweets is now part of an ongoing federal investigation into the safety of Teslas automated driver-assistant system. The National Highway Traffic Safety Administration reque… [+5042 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hollywood Reporter"
+},
+"author": "Scott Feinberg",
+"title": "Austin Butler, Colin Farrell, Brendan Fraser, Jeremy Pope, Ke Huy Quan, Adam Sandler and THR’s Actor Roundtable - Hollywood Reporter",
+"description": "The season’s Oscar contenders open up about returning to acting after grief and disappointment and how to stay hungry over the course of a long career: \"Expectation is a dangerous thing.\"",
+"url": "https://www.hollywoodreporter.com/movies/movie-features/austin-butler-brendan-fraser-colin-farrell-actor-roundtable-1235293939/",
+"urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/22119_THR_OSCARS_S14_ACTORS_GROUP_0336_R3_BKG6-SPLASH-2023.jpg?w=1024",
+"publishedAt": "2023-01-10T14:03:45Z",
+"content": "The six participants on this Oscar season’s edition of THR’s Actor Roundtable can speak to a wide variety of showbiz experiences. \r\nRanging in age from 30 to 56, some started out as child actors (Eve… [+22313 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Microsoft in talks to invest $10 bln in ChatGPT-owner OpenAI, Semafor reports - Reuters",
+"description": "Microsoft Corp <a href=\"https://www.reuters.com/companies/MSFT.O\" target=\"_blank\">(MSFT.O)</a> is in talks to invest $10 billion in ChatGPT-owner OpenAI as part of funding that will value the firm at $29 billion, Semafor reported on Monday, citing people fami…",
+"url": "https://www.reuters.com/technology/microsoft-talks-invest-10-bln-chatgpt-owner-semafor-2023-01-10/",
+"urlToImage": "https://www.reuters.com/resizer/7DkPyXRJDLOVbY92gEuTBRZsufE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HV5RW2BEZZK5JA33XB3HXTUZZQ.jpg",
+"publishedAt": "2023-01-10T13:56:00Z",
+"content": "Jan 10 (Reuters) - Microsoft Corp (MSFT.O) is in talks to invest $10 billion in ChatGPT-owner OpenAI as part of funding that will value the firm at $29 billion, Semafor reported on Monday, citing peo… [+2153 chars]"
+},
+{
+"source": {
+"id": "nfl-news",
+"name": "NFL News"
+},
+"author": "Dan Hanzus",
+"title": "NFL Power Rankings: 49ers, Bills, Bengals remain on top heading into Super Wild Card Weekend - NFL.com",
+"description": "Who sits atop the NFL Power Rankings heading into the playoffs? With the 2022 regular season in the books, Dan Hanzus provides a full rundown of the league hierarchy, 1-32.",
+"url": "https://www.nfl.com/news/nfl-power-rankings-super-wild-card-weekend-2022-nfl-season",
+"urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/icdqcwyuxjktofq07gh7",
+"publishedAt": "2023-01-10T13:49:00Z",
+"content": "The 2022 regular season has, at long last, reached its conclusion. Now it gets really fun.\r\nThe postseason promises drama, and eventual immortality for one team. But before any of that, let's take on… [+514 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "China suspends issuing visas in Japan, S.Korea to retaliate for COVID curbs - Reuters",
+"description": "China suspended issuing short-term visas in South Korea and Japan on Tuesday, after announcing it would retaliate against countries that required negative COVID-19 tests from Chinese travellers.",
+"url": "https://www.reuters.com/world/china/covid-wave-past-its-peak-many-parts-china-state-media-2023-01-10/",
+"urlToImage": "https://www.reuters.com/resizer/kRBo3X-4ZjnEA_x6277R7ZawK_8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SOBGVU3KVNKMTCPQ2QWM2U7CTY.jpg",
+"publishedAt": "2023-01-10T13:34:00Z",
+"content": "BEIJING, Jan 10 (Reuters) - China suspended issuing short-term visas in South Korea and Japan on Tuesday, after announcing it would retaliate against countries that required negative COVID-19 tests f… [+5460 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "SamMobile"
+},
+"author": "SamMobile, Mihai Matei",
+"title": "Leaked Galaxy S23 teasers suggest amazing nighttime camera performance - SamMobile - Samsung news",
+"description": "The Galaxy S23 launch is certainly drawing near, and as is usually the case before major Unpacked events, leaks are ...",
+"url": "https://www.sammobile.com/news/leaked-galaxy-s23-teasers-suggest-amazing-nighttime-camera-performance/",
+"urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/01/galaxy-s23-camera-teaser-leaked-official-720x355.png",
+"publishedAt": "2023-01-10T13:16:00Z",
+"content": "The Galaxy S23 launch is certainly drawing near, and as is usually the case before major Unpacked events, leaks are beginning to crop up more often the closer we get to the official release. A couple… [+1891 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "SUSAN HAIGH and PAT EATON-ROBB",
+"title": "Legal recreational marijuana sales starting in Connecticut - Yahoo News",
+"description": "Connecticut's first round of recreational cannabis sales for adults 21 and older began Tuesday at seven existing medical marijuana establishments across the ...",
+"url": "https://news.yahoo.com/legal-recreational-marijuana-sales-starting-125436476.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/maybWhlmEacARL6IRzj3Ig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/6b955efaaae6701dbbb0af79ca16a638",
+"publishedAt": "2023-01-10T12:54:36Z",
+"content": "MONTVILLE, Conn. (AP) Connecticut's first round of recreational cannabis sales for adults 21 and older began Tuesday at seven existing medical marijuana establishments across the state, less than two… [+5793 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Space.com"
+},
+"author": "Mike Wall",
+"title": "Watch SpaceX launch 51 Starlink internet satellites on Jan. 10 after delay - Space.com",
+"description": "Liftoff is scheduled for 11:02 p.m. ET.",
+"url": "https://www.space.com/spacex-launch-starlink-group-2-4",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/prWapTWeTx6CBpLmh7akhL-1200-80.jpg",
+"publishedAt": "2023-01-10T12:32:18Z",
+"content": "SpaceX plans to launch another big batch of its Starlink internet satellites to orbit on Tuesday (Jan. 10), and you can watch the action live.\r\nA Falcon 9 rocket topped with 51 of SpaceX's Starlink i… [+2604 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Tami Luhby",
+"title": "Here's how the House GOP majority will try to curb federal spending and taxes - CNN",
+"description": "In adopting their rules package Monday, the new House Republican majority has made it clear that they want to rein in federal government spending and keep a lid on taxes.",
+"url": "https://www.cnn.com/2023/01/10/politics/house-rules-package-republicans-federal-spending/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230109161717-house-floor-rules-vote.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-01-10T12:00:00Z",
+"content": "In adopting their rules package Monday, the new House Republican majority has made it clear that they want to rein in federal government spending and keep a lid on taxes.\r\nThe package, which governs … [+3395 chars]"
+}
+]
+}
