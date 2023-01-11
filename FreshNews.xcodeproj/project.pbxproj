@@ -11,6 +11,7 @@
 		3D369C5E296DF8220030DE3D /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D369C5D296DF8220030DE3D /* Article.swift */; };
 		3D369C60296DFB1D0030DE3D /* NewsAPIResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D369C5F296DFB1D0030DE3D /* NewsAPIResponse.swift */; };
 		3D369C63296DFD9F0030DE3D /* ArticleRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D369C62296DFD9F0030DE3D /* ArticleRowView.swift */; };
+		3D3E60B9296F447D00AC6961 /* ArticleListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3E60B8296F447D00AC6961 /* ArticleListView.swift */; };
 		3DF26656295E2B9F003EF090 /* FreshNewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF26655295E2B9F003EF090 /* FreshNewsApp.swift */; };
 		3DF26658295E2B9F003EF090 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF26657295E2B9F003EF090 /* ContentView.swift */; };
 		3DF2665A295E2BA0003EF090 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DF26659295E2BA0003EF090 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 		3D369C5F296DFB1D0030DE3D /* NewsAPIResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsAPIResponse.swift; sourceTree = "<group>"; };
 		3D369C62296DFD9F0030DE3D /* ArticleRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleRowView.swift; sourceTree = "<group>"; };
 		3D369C64296E017A0030DE3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		3D3E60B8296F447D00AC6961 /* ArticleListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleListView.swift; sourceTree = "<group>"; };
 		3DF26652295E2B9F003EF090 /* FreshNews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FreshNews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DF26655295E2B9F003EF090 /* FreshNewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreshNewsApp.swift; sourceTree = "<group>"; };
 		3DF26657295E2B9F003EF090 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				3D369C62296DFD9F0030DE3D /* ArticleRowView.swift */,
+				3D3E60B8296F447D00AC6961 /* ArticleListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DF26658295E2B9F003EF090 /* ContentView.swift in Sources */,
+				3D3E60B9296F447D00AC6961 /* ArticleListView.swift in Sources */,
 				3D369C63296DFD9F0030DE3D /* ArticleRowView.swift in Sources */,
 				3DF26656295E2B9F003EF090 /* FreshNewsApp.swift in Sources */,
 				3D369C60296DFB1D0030DE3D /* NewsAPIResponse.swift in Sources */,
